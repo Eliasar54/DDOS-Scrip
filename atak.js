@@ -11,7 +11,7 @@ process.setMaxListeners(0);
 require("events").EventEmitter.defaultMaxListeners = 0;
 
 if (process.argv.length < 5) {
-    console.log(`\x1b[33mUsage: node script.js URL TIME REQ_PER_SEC THREADS\x1b[0m`);
+    console.log(`\x1b[33mUsage: node atak.js http://exenple.com 500 8 1\x1b[0m`);
     process.exit();
 }
 
