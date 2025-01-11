@@ -73,5 +73,5 @@ Descargar desde [Git for macOS](https://git-scm.com/)
 
 
 ```bash
-https://github.com/Eliasar54/DDOS-Scrip
+git clone https://github.com/Eliasar54/DDOS-Scrip
 ```
