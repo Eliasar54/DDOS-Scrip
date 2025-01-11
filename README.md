@@ -1,4 +1,4 @@
-#DDOS-Scrip
+## DDOS-Scrip
 
 > [!CAUTION]
 > Aviso:
