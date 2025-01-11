@@ -75,3 +75,28 @@ Descargar desde [Git for macOS](https://git-scm.com/)
 ```bash
 git clone https://github.com/Eliasar54/DDOS-Scrip
 ```
+
+
+
+# navegar a la carpeta 
+
+```bash
+cd DDOS-Scrip
+```
+
+
+
+
+
+# comprar que los archivos estan instalados 
+
+```bash
+ls
+```
+
+
+# ejecutar el script 
+
+
+```bash
+node atak.js
