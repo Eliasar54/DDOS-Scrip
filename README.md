@@ -67,3 +67,11 @@ brew install git
 ### Opción 2: Instalador oficial
 Descargar desde [Git for macOS](https://git-scm.com/)
 
+
+
+# clonar el repositorio 
+
+
+```bash
+https://github.com/Eliasar54/DDOS-Scrip
+```
